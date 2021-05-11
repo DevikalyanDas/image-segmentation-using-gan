@@ -1,1 +1,1 @@
-# image-segmentation-using-pix2pix
+# image-segmentation-using-gan
